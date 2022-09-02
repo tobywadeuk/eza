@@ -20,8 +20,9 @@ button.addEventListener("click", function () {
   varone = capitalizeFirstLetter(varone);
 
   let result =
+    "Hey " +
     varone +
-    ", quick question - if my team found, vetted and coached an army of content creators who'll be posting daily optimized TikToks on behalf of " +
+    ", quick question - if my team found, vetted and coached an army of content creators to post daily optimized TikToks on behalf of " +
     vartwo +
     ", would that be of interest?";
 
